@@ -10,9 +10,9 @@ ___
 3. það skoðrar hvort all er í lægi
 ### *4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?*
 4. ESD = ELectrostatic discharge, það sentir rafman á milli.
-### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+### *5. Hvað þarf að hafa í huga við val á spennugjöfum?*
 5. Það þarf að vera rétt volt
-### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+### *6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?*
 6.  1. Greina vandamálið.
     2. Setja fram tilgátu líklega orsök.
     3. Prufa tilgátu til að greina orsök
