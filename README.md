@@ -28,4 +28,4 @@ ___
    	2. Lyklaborð
 	3. heyrnatól
 ### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-10. Gigabyte Deluxe tölvutilboð 4, kr 199.990, linkur : https://tolvutek.is/vara/gigabyte-deluxe-tolvutilbod-4
+10. Gigabyte Deluxe tölvutilboð 4, kr 199.990, [linkur á tölvuna](https://tolvutek.is/vara/gigabyte-deluxe-tolvutilbod-4)
