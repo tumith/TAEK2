@@ -4,11 +4,11 @@ ___
 ___
 ### *1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.*
 1. RAM er tölvuminni sen tekur jafn langan tíma að skrifa í eða lesa og það skiptyir ekki máli hvað er að hlaðast inn.
-### 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+### *2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.*
 2. ROM er tölvu minni sem getur bara lesið dæmi um ROM minni eru CD, DVD og ROM kubbar.
-### 3. Hvað er fyrirbyggjandi viðhald?
+### *3. Hvað er fyrirbyggjandi viðhald?*
 3. það skoðrar hvort all er í lægi
-### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+### *4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?*
 4. ESD = ELectrostatic discharge, það sentir rafman á milli.
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 5. Það þarf að vera rétt volt
