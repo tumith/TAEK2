@@ -19,13 +19,13 @@ ___
     4. Búa til áætlun um aðgerðir til að leysa vandann.
     5. Staðfesta fulla kerfisvirkni og ef á við, bæta inn fyrirbyggjandi viðhald.
     6. Skrá niðurstöður, framkvæmdir og útkomur.
-### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+### *7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.*
 7. opin spuring er þegar maður getur svarað öllu en clost spurning er þegar maður getur bara svarað já eða nei.
-### 8. Hvað eru jaðartæki?
+### *8. Hvað eru jaðartæki?*
 8. Jaðartæki er tæki sem tengt er við tölvu og hún stýrir, t.d. prentari, diskadrif, vefmyndavélar og mótald.
-### 9. Nefndu þrjú dæmi um inntakstæki.
+### *9. Nefndu þrjú dæmi um inntakstæki.*
 9. 	1. Mús
    	2. Lyklaborð
 	3. heyrnatól
-### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+### *10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.*
 10. Gigabyte Deluxe tölvutilboð 4, kr 199.990, [linkur á tölvuna](https://tolvutek.is/vara/gigabyte-deluxe-tolvutilbod-4)
